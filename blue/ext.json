@@ -1,0 +1,24 @@
+---
+metatype: json
+---
+
+  {
+    "identifier": "io.github.bithooks.sn-gruvbox-muted-theme",
+    "name": "Gruvbox Muted Theme",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "description": "Gruvbox Muted Theme for Standard Notes",
+    "version": "v0.0.01",
+    "url": "https://raw.githubusercontent.com/bithooks/sn-gruvbox-muted-theme/main/blue/dist/dist.css",
+    "download_url": "ttps://github.com/bithooks/sn-gruvbox-muted-theme/main/blue/blue.zip",
+    "marketing_url": "ttps://github.com/bithooks/sn-gruvbox-muted-theme",
+    "latest_url": "https://raw.githubusercontent.com/bithooks/sn-gruvbox-muted-theme/main/blue/ext.json",
+    "thumbnail_url": "",
+    "dock_icon": {
+      "type": "circle",
+      "background_color": "#458588",
+      "foreground_color": "#3c3836",
+      "border_color": "#458588"
+    },
+    "statusBar": "dark-content"
+  }
