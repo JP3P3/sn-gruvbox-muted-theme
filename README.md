@@ -20,3 +20,4 @@ https://listed.to/p/dd7im3duKb
 ```
 
 ## Preview
+![Gruvbox Dark Theme for Standard Notes](blue/blue-screenshot.png)
