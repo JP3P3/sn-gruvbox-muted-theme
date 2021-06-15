@@ -20,7 +20,7 @@ https://listed.to/p/dd7im3duKb
 ```
 
 ## Preview
-Blue
+### Blue
 ![Gruvbox Dark Theme for Standard Notes](blue/blue-screenshot.png)
 Purple
 ![Gruvbox Dark Theme for Standard Notes](purple/purple-screenshot.png)
