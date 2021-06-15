@@ -1,6 +1,8 @@
 # Gruvbox Muted Theme for Standard Notes
 
-Some color variations on the  amazing Standard Notes Gruvbox theme by christianhans. Muted some colors and added the option for three different highlight colors.
+**Three Standard Notes themes based on colors from the [gruvbox theme for Vim](https://github.com/morhetz/gruvbox). Install links for each color variant can be found below**
+
+Forked from christianhans' excellent [sn-gruvbox-dark-theme](https://github.com/bithooks/sn-gruvbox-dark-theme).
 
 ## Installation
 
