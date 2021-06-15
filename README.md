@@ -4,7 +4,7 @@ Some color variations on the  amazing Standard Notes Gruvbox theme by christianh
 
 ## Installation
 
-Click "Extensions" in near the bottom left corner of Standard Notes desktop app. Then click "Import Extension", paste in one of the following links and press ENTER. 
+Click "Extensions" near the bottom left corner of Standard Notes desktop app. Then click "Import Extension", paste in one of the following links and press ENTER. 
 
 For the Blue Highlight Color Variant:
 ```
